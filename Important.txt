@@ -1,0 +1,11 @@
+--------
+FR
+
+Vous devez d'abord lancer le fichier setup.py et après lancer le fichier Ungrabber.pyw.
+Veuillez notez qu'il faut mettre le fichier .exe a scanner dans ce dossier.
+--------
+
+--------
+EN
+
+U have to launch the setup.py before launching Ungrabber.pyw. U have to put the .exe file to scan in this folder.
